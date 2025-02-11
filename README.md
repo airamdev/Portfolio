@@ -26,7 +26,7 @@ Para ejecutarlo, al ser un proyecto hecho en Java, recomiendo IntelliJ como edit
 
 ## 📷 Capturas de pantalla o ejemplos de uso:
 
-`![Imagen específica](./QueEres/img/que_eres.png)`
+[![Imagen específica](./QueEres/img/que_eres.png)]
 
 # Proyecto "Portfolio > Freelancer"
 
@@ -46,7 +46,7 @@ En este caso, al ser un proyecto en HTML, podemos acceder a cualquier sección d
 
 ## 📷 Capturas de pantalla o ejemplos de uso:
 
-`![Imagen específica](./freelancer/img/preview.png)`
+[![Imagen específica](./freelancer/img/preview.png)]
 
 # Proyecto "Portfolio > Four-card-feature-section"
 
@@ -66,4 +66,4 @@ En este caso, al ser un proyecto en HTML, podemos acceder a cualquier sección d
 
 ## 📷 Capturas de pantalla o ejemplos de uso:
 
-`![Imagen específica](./four-card-feature-section/design/desktop-preview.jpg)`
+[![Imagen específica](./four-card-feature-section/design/desktop-preview.jpg)]
