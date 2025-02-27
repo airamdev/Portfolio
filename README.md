@@ -3,67 +3,58 @@
 ## ¡Bienvenid@ a este repositorio! 👋
 
 ## ¿Quién soy? ❓
-Hola, mi nombres es Airam. Soy un apasionado por el mundo de la informática y estudiante de DAM.
+Hola, mi nombre es Airam. Soy un apasionado por el mundo de la informática y estudiante de DAM.
 
-He decidido incluir 3 de los proyectos que he hecho a lo largo del curso.
+He decidido incluir 3 de los proyectos que he realizado a lo largo del curso.
 
 Adéntrate y siéntete libre de navegar entre los diferentes proyectos que encuentras dentro del repositorio.
 
-# Proyecto "Portfolio > QueEres"
+## 1. QueEres
 
-## 1.- QueEres:
-
-## 🤓 Descripción del proyecto:
+### 🤓 Descripción del proyecto:
 Este pequeño ejercicio de programación trata de saber tu año de nacimiento y, a raíz de ahí, te dirá expresamente qué eres coloquialmente hablando.
 
-## 💻 Tecnologías utilizadas:
-❗ Java.
+### 💻 Tecnologías utilizadas:
+❗ Java
 
-## 📁 Instrucciones de instalación y ejecución:
-Podemos descargar el proyecto mediante protocolo SSH o HTTPS con la herramienta de Git o simplemente descargar el proyecto o código fuente desde el botón verde principal.
+### 📁 Instrucciones de instalación y ejecución:
+Puedes descargar el proyecto mediante protocolo SSH o HTTPS con la herramienta de Git o simplemente descargar el proyecto o código fuente desde el botón verde principal.
 
-Para ejecutarlo, al ser un proyecto hecho en Java, recomiendo IntelliJ como editor más usado comunmente aunque, también puedes ejecutarlo en tu editor de texto o VSCode preferido.
+Para ejecutarlo, al ser un proyecto hecho en Java, recomiendo IntelliJ como editor más comúnmente usado, aunque también puedes ejecutarlo en tu editor de texto o VSCode preferido.
 
-## 📷 Capturas de pantalla o ejemplos de uso:
+### 📷 Capturas de pantalla o ejemplos de uso:
+[![Imagen específica](./QueEres/img/que_eres.png)](./QueEres/img/que_eres.png)
 
-[![Imagen específica](./QueEres/img/que_eres.png)]
+## 2. Freelancer
 
-# Proyecto "Portfolio > Freelancer"
+### 🤓 Descripción del proyecto:
+Es un pequeño proyecto inicial cursado en la asignatura de LND, el cual trata de "hacer" como si nosotros mismos fuésemos freelancers y estuviésemos ofreciendo nuestros servicios online.
 
-## 2.- Freelancer:
+### 💻 Tecnologías utilizadas:
+❗ HTML
+❗ CSS
 
-## 🤓 Descripción del proyecto:
-Es un pequeño proyecto inicial cursado en la asignatura de LND la cual trata de "hacer" como si nosotros mismos fuésemos freelancer y estuviésemos ofreciendo nuestros servicios online.
+### 📁 Instrucciones de instalación y ejecución:
+Puedes descargar el proyecto mediante protocolo SSH o HTTPS con la herramienta de Git o simplemente descargar el proyecto o código fuente desde el botón verde principal.
 
-## 💻 Tecnologías utilizadas:
-❗ HTML.
-❗ CSS.
+En este caso, al ser un proyecto en HTML, puedes acceder a cualquier sección de la "página" haciendo doble clic en los archivos que sean ejecutables por un navegador. Si quisieras editarlo, también puedes llevarlo a tu editor de texto favorito.
 
-## 📁 Instrucciones de instalación y ejecución:
-Podemos descargar el proyecto mediante protocolo SSH o HTTPS con la herramienta de Git o simplemente descargar el proyecto o código fuente desde el botón verde principal.
+### 📷 Capturas de pantalla o ejemplos de uso:
+[![Imagen específica](./freelancer/img/preview.png)](./freelancer/img/preview.png)
 
-En este caso, al ser un proyecto en HTML, podemos acceder a cualquier sección de la "página" haciendo doble clic en los archivos que sean ejecutables por un navegador. Si quisiéramos editarlo, también podemos llevarlo a nuestro editor de texto favorito.
+## 3. Four-card-feature-section
 
-## 📷 Capturas de pantalla o ejemplos de uso:
-
-[![Imagen específica](./freelancer/img/preview.png)]
-
-# Proyecto "Portfolio > Four-card-feature-section"
-
-## 3.- Four-card-feature-section:
-
-## 🤓 Descripción del proyecto:
+### 🤓 Descripción del proyecto:
 Esto es un examen que tuve que hacer en la asignatura de LND. Es corto y sencillo.
 
-## 💻 Tecnologías utilizadas:
-❗ HTML.
-❗ CSS.
+### 💻 Tecnologías utilizadas:
+❗ HTML
+❗ CSS
 
-## 📁 Instrucciones de instalación y ejecución:
-Podemos descargar el proyecto mediante protocolo SSH o HTTPS con la herramienta de Git o simplemente descargar el proyecto o código fuente desde el botón verde principal.
+### 📁 Instrucciones de instalación y ejecución:
+Puedes descargar el proyecto mediante protocolo SSH o HTTPS con la herramienta de Git o simplemente descargar el proyecto o código fuente desde el botón verde principal.
 
-En este caso, al ser un proyecto en HTML, podemos acceder a cualquier sección de la "página" haciendo doble clic en los archivos que sean ejecutables por un navegador. Si quisiéramos editarlo, también podemos llevarlo a nuestro editor de texto favorito.
+En este caso, al ser un proyecto en HTML, puedes acceder a cualquier sección de la "página" haciendo doble clic en los archivos que sean ejecutables por un navegador. Si quisieras editarlo, también puedes llevarlo a tu editor de texto favorito.
 
-## 📷 Capturas de pantalla o ejemplos de uso:
-
-[![Imagen específica](./four-card-feature-section/design/desktop-preview.jpg)]
+### 📷 Capturas de pantalla o ejemplos de uso:
+[![Imagen específica](./four-card-feature-section/design/desktop-preview.jpg)](./four-card-feature-section/design/desktop-preview.jpg)
